@@ -1,0 +1,27 @@
+nav {
+  background-color: #f54748;
+  margin: 0 auto;
+}
+
+nav ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 30px;
+}
+
+nav ul li a {
+  color: #f5e6ca;
+  text-decoration: none;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+  background-color: #343f56;
+  border-radius: 50%;
+}

@@ -1,0 +1,20 @@
+.home {
+  color: #343f56;
+  background-color: #fff;
+  text-align: center;
+  background-color: #fb9300;
+  margin-top: 0;
+  padding: 20px;
+}
+
+.home p {
+  font-weight: bold;
+  text-align: right;
+}
+
+.img-lola {
+  width: 300px;
+  display: flex;
+  justify-content: left;
+  filter: drop-shadow(0 0.5rem 0.5rem rgba(0, 0, 0, 0.25));
+}
