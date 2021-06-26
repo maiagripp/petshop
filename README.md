@@ -1,5 +1,5 @@
 # petshop 
-#Trabalho realizado na disciplina Desenvolvimento Web da Residência de Software da Serratec.
+Trabalho realizado na disciplina Desenvolvimento Web da Residência de Software da Serratec.
 
 # Getting Started with Create React App
 
